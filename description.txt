@@ -1,0 +1,3 @@
+Questions 
+firstly, I did creat description.txt file and type "git init" 
+

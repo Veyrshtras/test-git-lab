@@ -1,0 +1,54 @@
+commit 7cb5424d7156b705e92f7cc3c14aa07f8e3c81a6
+Author: shaxboz <juraevshaxboz0594@gmail.com>
+Date:   Wed Apr 27 23:39:28 2022 +0800
+
+    new third file is committed by git_2
+
+commit a3329ecf181f45f784e476c3b89f71e95d2339f0
+Author: shaxboz <juraevshaxboz0594@gmail.com>
+Date:   Wed Apr 27 04:08:52 2022 +0800
+
+    changed for testing cherrypick
+
+commit 6b9fe09cb6a2a6f8d42f629c7f41b769d7eda57b
+Author: shaxboz <juraevshaxboz0594@gmail.com>
+Date:   Wed Apr 27 03:56:19 2022 +0800
+
+    change2 for patch
+
+commit 83dce4151893b08a4cb49503784a3c1fd439b086
+Author: shaxboz <juraevshaxboz0594@gmail.com>
+Date:   Wed Apr 27 02:22:45 2022 +0800
+
+    change for patch
+
+commit 4bc4af29c49d8fa39269b2bdcb473ddf8e7c45e6
+Author: shaxboz <juraevshaxboz0594@gmail.com>
+Date:   Wed Apr 27 01:27:16 2022 +0800
+
+    secondFile.txt is updated by git_2
+
+commit e8479f6e21bea19d42403f11c263d2001c36972b
+Merge: 0a7c092 2283176
+Author: shaxboz <juraevshaxboz0594@gmail.com>
+Date:   Wed Apr 27 01:16:20 2022 +0800
+
+    Merge branch 'git_1' into git_2
+
+commit 228317651e9d75f4ae44f85ee4e75d26f6f4f222
+Author: shaxboz <juraevshaxboz0594@gmail.com>
+Date:   Wed Apr 27 01:14:07 2022 +0800
+
+    secondFile.txt is adding by git_1
+
+commit d76c6815b384bcf67f209feabdea53fc534fcc52
+Author: shaxboz <juraevshaxboz0594@gmail.com>
+Date:   Wed Apr 27 01:10:19 2022 +0800
+
+    firstFile.txt is adding by git_1
+
+commit 0a7c09291d95c19cc6b91deee8020def13c515ed
+Author: shaxboz <juraevshaxboz0594@gmail.com>
+Date:   Wed Apr 27 00:43:06 2022 +0800
+
+    description file is added by master
